@@ -9,7 +9,7 @@
   left: 50%;
   transform: translate(-50%, -50%) rotate(-90deg);
   stroke-linecap: round;
-  stroke-dasharray: 440; /**/
+  stroke-dasharray: 380; /**/
 }
 .svg2 {
   position: absolute;
@@ -35,10 +35,15 @@
 .fileSignatureIcon {
   margin-left: 42px;
 }
+.progressbarCount {
+  font-family: "Libre Baskerville", serif;
+}
 @media (width: 360px) {
   .progress-container {
+    width: 100%;
     height: 300px;
     position: relative;
     overflow-y: hidden;
+    margin-left: -20px;
   }
 }

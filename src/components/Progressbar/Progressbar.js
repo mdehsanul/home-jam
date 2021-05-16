@@ -34,7 +34,7 @@ const Progressbar = () => {
                 icon={faHeart}
                 className="fa-2x progressBarLoveIcon"
               />
-              <p className="fs-4 text-center">456</p>
+              <p className="fs-4 text-center progressbarCount">456</p>
               <p className="fs-5">Likes everyday</p>
             </div>
           </div>
@@ -53,7 +53,7 @@ const Progressbar = () => {
             </svg>
             <div className="progressbarDetail">
               <FontAwesomeIcon icon={faFileSignature} className="ms-5 fa-2x" />
-              <p className="fs-4 text-center">745</p>
+              <p className="fs-4 text-center progressbarCount">745</p>
               <p className="fs-5">Online Events</p>
             </div>
           </div>
@@ -72,7 +72,7 @@ const Progressbar = () => {
             </svg>
             <div className="progressbarDetail">
               <FontAwesomeIcon icon={faFileSignature} className="ms-5 fa-2x" />
-              <p className="fs-4 text-center">333</p>
+              <p className="fs-4 text-center progressbarCount">333</p>
               <p className="fs-5">Offline Events</p>
             </div>
           </div>
@@ -94,7 +94,7 @@ const Progressbar = () => {
                 icon={faFileSignature}
                 className="fa-2x fileSignatureIcon"
               />
-              <p className="fs-4 text-center">800</p>
+              <p className="fs-4 text-center progressbarCount">800</p>
               <p className="fs-5">Daily Events</p>
             </div>
           </div>
