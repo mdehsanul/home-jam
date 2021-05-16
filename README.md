@@ -1,9 +1,4 @@
-# Getting Started with Create React App
+# HomeJam
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+live: https://practical-varahamihira-d7d57d.netlify.app/
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `np
