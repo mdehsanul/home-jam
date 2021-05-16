@@ -8,7 +8,7 @@ live site: https://vibrant-einstein-c5d981.netlify.app/
 
 
 ## Mobile responsiveness:
-mobile devices are
+mobile devices are,
 * Galaxy Note 3(360 X 640), 100%, Online
 * Moto G4(360 X 640), 100%, Online
 * Galaxy S5(360 X 640), 100%, Online
