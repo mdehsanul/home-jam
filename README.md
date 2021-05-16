@@ -1,4 +1,4 @@
 # HomeJam
 
-live: https://practical-varahamihira-d7d57d.netlify.app/
+live: https://vibrant-einstein-c5d981.netlify.app/
 
