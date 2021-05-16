@@ -54,13 +54,12 @@
 @media (width: 360px) {
   .sliderContainer {
     display: block;
-    max-width: 100%;
     overflow-x: scroll;
     white-space: nowrap;
   }
   .item {
     display: inline-block;
-    width: 290px;
+    width: 300px;
     font-size: 15px;
     white-space: pre-wrap;
   }
