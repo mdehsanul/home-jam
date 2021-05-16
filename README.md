@@ -1,6 +1,6 @@
 # HomeJam
 
-live site: https://vibrant-einstein-c5d981.netlify.app/
+live site: https://relaxed-snyder-6ad00a.netlify.app/
 
 ## Desktop View
 
