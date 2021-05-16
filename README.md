@@ -1,6 +1,6 @@
 # HomeJam
 
-live site: https://hopeful-pike-3e215a.netlify.app/
+live site: https://silly-lichterman-658b9a.netlify.app/
 
 ## Desktop View
 
