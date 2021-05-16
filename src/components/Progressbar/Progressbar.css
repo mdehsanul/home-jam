@@ -1,0 +1,54 @@
+.progress-container {
+  height: 680px;
+  position: relative;
+  overflow-x: hidden;
+}
+.svg1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-90deg);
+  stroke-linecap: round;
+  stroke-dasharray: 440; /**/
+}
+.svg2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-90deg);
+  stroke-linecap: round;
+  stroke-dasharray: 1860;
+  opacity: 0.1;
+}
+.progressbarDetail {
+  font-family: "Nunito";
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.progressBarLoveIcon {
+  margin-left: 48px;
+  color: #0259eb;
+}
+.fileSignatureIcon {
+  margin-left: 42px;
+}
+@media (width: 360px) {
+  .progress-container {
+    height: 300px;
+    position: relative;
+    overflow-y: hidden;
+    /* margin-left: -70px; */
+  }
+  /* .x {
+    margin-left: -200px;
+  }
+  .y {
+    margin-left: -330px;
+  }
+  .z {
+    margin-left: -460px;
+  } */
+}

@@ -1,0 +1,18 @@
+.navbarFont {
+  font-family: "Open Sans", sans-serif;
+}
+.navbarMobileDeviceButton:focus {
+  box-shadow: none;
+}
+.navbarMobileDeviceIcon {
+  display: none;
+}
+@media (width: 360px) {
+  .navbarMobileDeviceIcon {
+    display: inline;
+    margin-right: -70px;
+  }
+  .navbarDesktopIcon {
+    display: none;
+  }
+}

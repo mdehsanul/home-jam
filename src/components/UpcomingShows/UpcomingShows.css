@@ -1,0 +1,67 @@
+.upcomingShows {
+  font-family: "Libre Baskerville", serif;
+}
+.upcomingShowsTitle {
+  font-weight: 300;
+  display: inline-block;
+  padding-bottom: 5px;
+  position: relative;
+}
+.viewallButton {
+  font-family: "Nunito";
+}
+.upcomingShowsTitle:before {
+  content: "";
+  position: absolute;
+  width: 17%;
+  height: 1px;
+  bottom: 0;
+  border-bottom: 3px solid #0259eb;
+}
+.cardBody,
+.cardBackground {
+  background: #111229;
+  border-radius: 13px;
+}
+.cardBackground {
+  box-shadow: 6px -6px 0px 0px rgba(53, 8, 138, 0.863);
+}
+.cardTitle {
+  font-family: "Nunito";
+  font-size: 12px;
+  font-weight: 800;
+  color: #682f26;
+}
+.cardText {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 32px;
+}
+.cardFooter {
+  font-size: 13px;
+}
+.cardFooter,
+.footerLongArrowAltRightIcon {
+  color: #0259eb;
+}
+.cardFooterIcon {
+  float: right;
+  color: #363636;
+}
+.footerClipboardListIcon {
+  color: #ff0080;
+}
+@media (width: 360px) {
+  .sliderContainer {
+    display: block;
+    max-width: 100%;
+    overflow-x: scroll;
+    white-space: nowrap;
+  }
+  .item {
+    display: inline-block;
+    width: 290px;
+    font-size: 15px;
+    white-space: pre-wrap;
+  }
+}

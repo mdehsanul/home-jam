@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.HeaderBackgroundImage {
+  background: url("../../image/background-img.png");
+  background-size: cover;
+  height: 100vh;
+}
+.headerText {
+  padding-top: 200px;
+}
+.headerTitleText {
+  font-family: "Libre Baskerville", serif;
+  font-size: 60px;
+  color: white;
+}
+.headerDescriptionText {
+  font-family: "Nunito", serif;
+  font-size: 24px;
+  font-weight: 400;
+  opacity: 60%;
+  line-height: 32px;
+  color: white;
+}
+@media (width: 360px) {
+  .HeaderBackgroundImage {
+    background-position: center;
+  }
+  .headerTitleText {
+    font-size: 40px;
+  }
+  .headerDescriptionText {
+    font-size: 17px;
+    line-height: 20px;
+  }
+}
