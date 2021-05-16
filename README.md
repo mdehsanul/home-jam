@@ -1,6 +1,6 @@
 # HomeJam
 
-live site: https://relaxed-snyder-6ad00a.netlify.app/
+live site: https://hopeful-pike-3e215a.netlify.app/
 
 ## Desktop View
 
