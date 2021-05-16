@@ -14,4 +14,5 @@ mobile devices are,
 * Galaxy S5(360 X 640), 100%, Online
 
 
-![Mobile](https://user-images.githubusercontent.com/47758718/118399920-4b94a000-b681-11eb-8cc9-19ddd5b7a655.jpg)
+![Mobile](https://user-images.githubusercontent.com/47758718/118400822-1db15a80-b685-11eb-89f6-c1e7aebb0516.jpg)
+
