@@ -13,7 +13,7 @@ mobile devices are,
 * Moto G4(360 X 640), 100%, Online
 * Galaxy S5(360 X 640), 100%, Online
 
-
+## Mobile View
 ![Mobile](https://user-images.githubusercontent.com/47758718/118401283-e9d73480-b686-11eb-8156-ac6580f2b115.jpg)
 
 
